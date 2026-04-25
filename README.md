@@ -42,7 +42,7 @@ pip
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/traffic-law-enforcement-system.git
+https://github.com/MNS-developer/traffic-law-enforcement-system.git
 cd traffic-law-enforcement-system
 
 # Install dependencies
